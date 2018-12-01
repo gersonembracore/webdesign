@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+    background: black;
+    position: relative;
+}
+
+.container-fluid 
+
+.slide2 {
+    color: black;
+}
+
+.card {
+    margin: 10px;
+    border-radius: 0;
+}
+
+#email {
+    margin: 10px;
+    background: white;
+}
+
+.form-group {
+    margin: 10px;
+    text-align: center;
+}

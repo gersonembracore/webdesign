@@ -1,0 +1,28 @@
+// Portas das interfaces
+var portas = [
+
+    {
+        "porta": "ether1",
+        "comentario": "WAN-1"
+    },
+
+    {
+        "porta": "ether2",
+        "comentario": "WAN-2"
+    },
+
+    {
+        "porta": "ether3",
+        "comentario": "WAN-3"
+    },
+
+    {
+        "porta": "ether4",
+        "comentario": "WAN-4"
+    },
+
+    {
+        "porta": "ether5",
+        "comentario": "WAN-5"
+    }
+]

@@ -1,0 +1,92 @@
+// Dados da lista de Opções
+var menu = [
+
+    {
+		"texto": "interfaces",
+		"link":    "interfaces.html"
+	},
+
+	{
+		"texto": "ip address",
+		"link":    "address.html"
+	},
+
+
+	{
+		"texto": "dhcp-server",
+		"link":    "dhcp-server.html"
+	},
+
+
+	{
+		"texto": "ip pool",
+		"link":    "ip_pool.html"
+	},
+
+
+	{
+		"texto": "firewall-filter",
+		"link":    "firewall-filter.html"
+	},
+
+
+	{
+		"texto": "firewall-mangle",
+		"link":    "firewall-mangle.html"
+	},
+
+
+	{
+		"texto": "firewall-nat",
+		"link":    "firewall-nat.html"
+	},
+
+
+	{
+		"texto": "ip routes",
+		"link":    "ip_routes.html"
+	},
+
+
+	{
+		"texto": "system",
+		"link":    "system.html"
+	},
+
+
+	{
+		"texto": "queues",
+		"link":    "queues.html"
+	},
+
+
+	{
+		"texto": "monitor",
+		"link":    "monitor.html"
+	},
+
+
+	{
+		"texto": "tools",
+		"link":    "tools.html"
+	},
+
+
+	{
+		"texto": "BGP",
+		"link":    "bgp.html"
+	},
+
+
+	{
+		"texto": "OSPF",
+		"link":    "ospf.html"
+	},
+
+
+	{
+		"texto": "log",
+		"link":    "log.html"
+	}
+
+]

@@ -1,0 +1,103 @@
+body {
+    font-family: sans-serif;
+    background: white;
+}
+
+/* CSS da lista de Opções */
+.conteudo-1{
+    /*background-color: #3f3f3f;*/
+    margin: 10px;
+    border-radius: 5px;
+}
+
+#menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    /*background-color: #3f3f3f;*/
+}
+
+#menu li a {
+    display: block;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+#menu li a:hover {
+    background-color: #555;
+    color: white;
+}
+/* Fim do CSS da lista de Opções */
+
+/* CSS conteudo 2 */
+.conteudo-2 {
+    margin: 10px;
+    background: #d6d6d6;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.interfaces {
+    margin-top: 10px;
+    list-style-type: none;
+}
+
+.progress {
+    background: #d6d6d6;
+    margin: 10px;
+}
+
+#portas {
+    list-style-type: none;
+    margin: 10px;
+    padding: 0;
+    width: 200px;
+}
+
+#portas li{
+    display: block;
+    color: black;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+/* Fim CSS do conteudo 2*/
+
+/* CSS conteudo 3 */
+.conteudo-3 {
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.enderecos {
+    margin: 10px;
+    list-style-type: none;
+    color: white;   
+}
+
+#address {
+    list-style-type: none;
+    margin: 10px;
+    padding: 0;
+    width: 200px;
+}
+
+#address li{
+    display: block;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+/* Fim CSS conteudo 3 */
+
+.footer {
+    margin: 0;
+}
+
+.card {
+    border-radius: 0; 
+    color: #d6d6d6;
+}
